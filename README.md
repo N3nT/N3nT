@@ -11,7 +11,7 @@
     media="(prefers-color-scheme: light)"
     srcset="images/breakout-light.svg"
   />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
+  <img alt="Breakout Game" src="images/breakout-dark.svg" />
 </picture>
 <!--
 **N3nT/N3nT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
