@@ -1,5 +1,7 @@
 ## Hey I'm Bartosz👋
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=N3nT&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N3nT&theme=react)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=N3nT&theme=react)
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
