@@ -1,5 +1,16 @@
-## Hi there 👋
+## Hey I'm Bartosz👋
 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 <!--
 **N3nT/N3nT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
